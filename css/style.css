@@ -1,0 +1,112 @@
+/* 3. */
+body {
+    font-family: Arial, Verdana;
+    background: #000000;
+    color: #FFFFFF;
+    margin: 20px 20px 0 20px;
+}
+
+/* 4. */
+h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+/* 5. */
+h2 {
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+/* 6. */
+p {
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+/* 7. */
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dashed #FFFFFF;
+}
+
+/* 8. */
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #FFFFFF;
+}
+
+/* 9. */
+.introduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+/* 10. */
+.red {
+    background: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+
+/* 11. */
+.blue {
+    background-color: #0000ff;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+
+.blue h2, .blue p {
+    color: #C4C4C4;
+}
+
+/* .blue p {
+    color: #C4C4C4;
+} */
+
+/* 12. */
+.yellow {
+    background-color: #ffff00;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+
+.yellow p {
+    color: #707070;
+}
+
+/* 13. */
+.green {
+    background-color: #008500;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+
+
+/* 14. */
+footer {
+    background: linear-gradient(90deg, #000000, #0000ff 20%, #0066ff 70%, #000000);
+    border: 5px solid #FFFFFF;
+}
+
+/* 15. */
+footer p {
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0;
+}
