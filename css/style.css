@@ -50,21 +50,21 @@ div {
 }
 
 /* 10. */
-.red {
+div.red {
     background: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 /* 11. */
-.blue {
+div.blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 .blue h2, .blue p {
@@ -73,12 +73,12 @@ div {
 
 
 /* 12. */
-.yellow {
+div.yellow {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .yellow p {
@@ -86,12 +86,12 @@ div {
 }
 
 /* 13. */
-.green {
+div.green {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 
